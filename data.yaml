@@ -1,0 +1,6 @@
+train: E:\New folder (3)\corrosion_segmentation\train\images
+val:  E:\New folder (3)\corrosion_segmentation\test\images
+
+nc: 1
+names: ['Corrosion']
+
